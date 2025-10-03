@@ -1,11 +1,6 @@
-﻿using Homeworks.NET.Homework_1.Homework_1._1;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System;
 
-namespace Homeworks.Homework1.Homework1_1
+namespace Homeworks.NET.Homework_1.Homework_1_1
 {
     public class Program
     {
@@ -17,3 +12,4 @@ namespace Homeworks.Homework1.Homework1_1
         }
     }
 }
+
